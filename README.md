@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-costa-castilho/)](https://www.linkedin.com/in/thiago-costa-castilho/)
 
 <br/>
-* 🤖  I’m currently working as a Software Quality Engineer at GFT based on Sao Paulo - Brazil
+🤖  I’m currently working as a Software Quality Engineer at GFT based on Sao Paulo - Brazil
 
-<br />
+<br/>
+<br/>
+<br/>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thiago-castilho&hide=["prs","issues"])
