@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br/>
 
 - 🤖  I’m currently working as a Software Quality Engineer at GFT Brazil, based on São Paulo.
-- 🌱 I’m currently learning **Cypress**.
+- 🌱 I’m currently learning **React Native**.
 - ☕ I’m looking to collaborate on Open Sources projects.
 - 💬 Ask me about test automation ✌
 - 📫 How to reach me: Just click on my social media badges above.
